@@ -1,3 +1,5 @@
-P {
-	color:red;
+body {
+  Background-color: azure;
+  border: 1px solid aquamarine;
+  padding: 30px
 }
